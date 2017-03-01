@@ -66,7 +66,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 1. Białousz Marek
 2. [Biewska Aldona](https://github.com/abie115/nosql)
 3. [Błachuciak Amelia](https://github.com/erathiel/nosql)
-4. Buszman Dariusz
+4. [Buszman Dariusz](https://github.com/dbuszman/NoSQL)
 5. Centek Damian
 6. Cieślak Patrycja 22.02
 7. [Czarnecki Sebastian](https://github.com/sebcza/nosql.git)
